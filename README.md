@@ -1,11 +1,11 @@
 # 💫 About Me:
 Hi, I'm Rashid Ahmad! 👋 I'm a Technical Lead and Full-Stack Software Engineer with over 8 years of experience, specializing in cloud architecture, Salesforce development, and modern web applications. You can explore more of my work and insights at [rashiddev.in](https://rashiddev.in).
 
-- 🔭 **I’m currently working on:** Building a micromanagement web app to track daily work activities and designing enterprise-grade features to optimize user experiences.
-- 🌱 **I’m currently exploring:** Advanced artificial intelligence integrations and actively preparing for the Salesforce Certified Platform Sharing and Visibility Architect exam.
-- ⚙️ **My expertise:** Salesforce architecture (Apex, LWC), React, automated CI/CD pipelines, and database optimization.
-- 🏆 **Certifications:** 9x Salesforce Certified, including Platform Developer II, JavaScript Developer I, AI Specialist, and CRM Analytics & Einstein Discovery Consultant. 
-- 💬 **Ask me about:** Full-stack architecture, tackling complex technical challenges, the future of AI, or leveraging technology for social justice.
+- 🔭 **I’m currently working on:** Building a micromanagement web app to track daily activities, designing enterprise-grade features, and driving **AI automation** solutions (which I've been actively developing for the past 2 years).
+- 🌱 **I’m currently exploring:** Advanced artificial intelligence integrations, agentic workflows, and the next wave of generative AI capabilities.
+- ⚙️ **My expertise:** AI Automation, Salesforce architecture (Apex, LWC), React, automated CI/CD pipelines, and database optimization.
+- 🏆 **Certifications:** 10x Salesforce Certified! Recently achieved the **Platform Sharing and Visibility Architect** certification, alongside Platform Developer II, JavaScript Developer I, AI Specialist, and CRM Analytics & Einstein Discovery Consultant. 
+- 💬 **Ask me about:** Full-stack architecture, tackling complex technical challenges, the future of AI automation, or leveraging technology for social justice.
 
 ## 🌐 Socials & Portfolio:
 [![Portfolio](https://img.shields.io/badge/Website-rashiddev.in-00599C?style=flat&logo=googlechrome&logoColor=white)](https://rashiddev.in)
@@ -16,7 +16,7 @@ Hi, I'm Rashid Ahmad! 👋 I'm a Technical Lead and Full-Stack Software Engineer
 **Frontend & Backend**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 
-**Cloud & Enterprise**  
+**Cloud, Enterprise & AI**  
 ![Salesforce](https://img.shields.io/badge/salesforce-%2300A1E0.svg?style=plastic&logo=salesforce&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) 
 
 **Databases & DevOps**  
